@@ -1,7 +1,7 @@
 # SadurRPL
 Berisi Saduran Mata Kuliah Analisa dan Perancangan Perangkat Lunak<br>
 <br>
-Pertemuan 5<br>
+Pertemuan 6<br>
 <br>
 NAMA      : Wahyu Nuryadi<br>
 NIM       : 1811500083<br>
